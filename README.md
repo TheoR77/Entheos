@@ -1,2 +1,2 @@
 # Entheos
-Personal health temporal analysis program
+"Entheos", based on the Greek prefix used for "Enthusiasm" and "Entheogen", is a simple temporal analysis program for the user to self-assess their level of physical activity, productivity, quality of sleep and general mood. It stores data in a .json file, allows the visualization of specific graphs, a general graph and average of the evaluated factors, so that one can observe improvement and worsening in each variable and evaluate the relationship between them.
